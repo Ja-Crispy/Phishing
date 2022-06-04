@@ -10,6 +10,7 @@ Run the setupfinal.exe file, or the setupfinal.py file in a Python IDLE, to inst
 Next, open a Command Line Interface in the same directory.
 Now, type the following code into the CLI:
     python manage.py runserver
+    
 The following text should appear: 
     Watching for file changes with StatReloader
     Performing system checks...
