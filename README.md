@@ -8,7 +8,9 @@ INSTALLATION
 Make sure the MySQL service is running on your computer. 
 Run the setupfinal.exe file, or the setupfinal.py file in a Python IDLE, to install the required modules.
 Next, open a Command Line Interface in the same directory.
+
 Now, type the following code into the CLI:
+
     python manage.py runserver
     
 The following text should appear: 
