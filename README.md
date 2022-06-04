@@ -1,8 +1,8 @@
-#PHISHING DEMONSTRATOR
+PHISHING DEMONSTRATOR
 The project aims to teach the user to identify the minor details that differentiate the legitimate website and the phishing website, and help them stay safe from such attacks.
 
 
-##INSTALLATION
+#INSTALLATION
 Make sure the MySQL service is running on your computer. 
 Run the setupfinal.exe file, or the setupfinal.py file in a Python IDLE, to install the required modules.
 Next, open a Command Line Interface in the same directory.
